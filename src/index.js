@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
 import { ThemeProvider } from "@mui/styles";
 import { theme } from "./theme";
 import { RouterProvider } from "react-router-dom";
